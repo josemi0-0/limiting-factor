@@ -1,7 +1,7 @@
 # Limiting Factor
 Welcome to the Limiting Factor repository, here this is the official playground for the fictional company. Here are some quick 
 
-### Facts About Us
+## Facts About Us
 - We are a fictional company founded for a Digital Info Tech class
 - Founded by Eli G. and myself (Jose M.)
 
